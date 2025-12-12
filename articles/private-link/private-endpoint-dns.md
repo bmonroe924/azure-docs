@@ -337,6 +337,8 @@ For Azure services, use the recommended zone names as described in the following
 > | Azure Monitor (Microsoft.Insights/privateLinkScopes) | azuremonitor | privatelink.monitor.azure.us <br/> privatelink.adx.monitor.azure.us <br/> privatelink.oms.opinsights.azure.us <br/> privatelink.ods.opinsights.azure.us <br/> privatelink.agentsvc.azure-automation.us <br/> privatelink.blob.core.usgovcloudapi.net | monitor.azure.us <br/> adx.monitor.azure.us <br/> oms.opinsights.azure.us<br/> ods.opinsights.azure.us<br/> agentsvc.azure-automation.us <br/> blob.core.usgovcloudapi.net |
 > | Microsoft Purview (Microsoft.Purview) | account | privatelink.purview.azure.us | purview.azure.us |
 > | Microsoft Purview (Microsoft.Purview) | portal | privatelink.purviewstudio.azure.us | purview.azure.com </br> purviewstudio.azure.us |
+> | Azure Migrate (Microsoft.Migrate/migrateProjects) | portal | privatelink.prod.migration.windowsazure.us | prod.migration.windowsazure.us </br> prod.migration.windowsazure.us |
+> | Azure Migrate (Microsoft.Migrate/assessmentProjects) | portal | privatelink.prod.migration.windowsazure.us | prod.migration.windowsazure.us </br> prod.migration.windowsazure.us |
 
 ### Security
 
